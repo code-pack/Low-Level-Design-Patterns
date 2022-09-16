@@ -1,4 +1,4 @@
-package adapter.without;
+package adapter;
 
 public class EmailSender implements LegacyNotifier {
     @Override

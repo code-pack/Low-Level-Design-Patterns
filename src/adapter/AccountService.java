@@ -1,4 +1,4 @@
-package adapter.without;
+package adapter;
 
 import java.util.List;
 

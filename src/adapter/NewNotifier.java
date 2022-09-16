@@ -1,4 +1,4 @@
-package adapter.without;
+package adapter;
 
 public interface NewNotifier {
     void notifyy();

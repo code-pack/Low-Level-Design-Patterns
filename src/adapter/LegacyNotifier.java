@@ -1,4 +1,4 @@
-package adapter.without;
+package adapter;
 
 public interface LegacyNotifier {
     void sendNotification();
