@@ -1,2 +1,5 @@
-package iterator;public interface Iterable {
+package iterator;
+
+public interface Iterable {
+    Iterator getIterator();
 }
