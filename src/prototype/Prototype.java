@@ -1,2 +1,5 @@
-package prototype;public interface Prototype {
+package prototype;
+
+public interface Prototype {
+    Object createCloneOf();
 }
