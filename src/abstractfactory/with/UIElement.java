@@ -1,2 +1,5 @@
-package abstractfactory.with;public interface UIElement {
+package abstractfactory.with;
+
+public interface UIElement {
+    void render();
 }
