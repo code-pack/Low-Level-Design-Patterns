@@ -1,2 +1,5 @@
-package facade;public interface VideoCompressor {
+package facade;
+
+public interface VideoCompressor {
+    Video compress(Video video);
 }

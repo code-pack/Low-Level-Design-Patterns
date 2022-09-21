@@ -1,2 +1,6 @@
-package facade;public enum Format {
+package facade;
+
+public enum Format {
+    MKV,
+    MP4
 }

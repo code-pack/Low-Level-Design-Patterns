@@ -1,2 +1,5 @@
-package facade;public class VideoPostProcessor {
+package facade;
+
+public interface VideoPostProcessor {
+    Video process(Video video);
 }

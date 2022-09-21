@@ -1,2 +1,4 @@
-package facade;public class Video {
+package facade;
+
+public class Video {
 }
