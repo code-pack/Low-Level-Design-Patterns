@@ -1,2 +1,7 @@
-package chainofresponsibility;public enum PaymentStatus {
+package chainofresponsibility;
+
+public enum PaymentStatus {
+    PENDING,
+    UNKNOWN,
+    COMPLETE;
 }

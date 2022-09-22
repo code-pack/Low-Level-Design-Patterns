@@ -1,2 +1,7 @@
-package chainofresponsibility;public enum RequestType {
+package chainofresponsibility;
+
+public enum RequestType {
+    LOGIN,
+    LOGOUT,
+    BOOK_A_RIDE
 }

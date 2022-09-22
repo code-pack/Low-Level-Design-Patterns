@@ -1,2 +1,7 @@
-package chainofresponsibility;public enum RequestStatus {
+package chainofresponsibility;
+
+public enum RequestStatus {
+    FAILED,
+    IN_PROGRESS,
+    SUCCEEDED
 }
