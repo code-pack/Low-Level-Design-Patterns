@@ -1,2 +1,7 @@
-package mediator;public enum EventType {
+package mediator;
+
+public enum EventType {
+    CLICK,
+    CHECK,
+    SELECT
 }

@@ -1,2 +1,5 @@
-package mediator;public interface Window {
+package mediator;
+
+public interface Window {
+    void notifyUI(UIComponent component, EventType eventType);
 }
