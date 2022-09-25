@@ -2,13 +2,14 @@
 
 In this repository I have discussed all the 23 Low Level Design Patterns (23 GoF Patterns) along with detailed code samples and videos. All the code examples are working and I have coded it live in all the videos, so if you want to understand the full thought process behind all these design patterns and their code, please watch the videos as well.
 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ps06756/)
 
 Here are the relevant links for these patterns
 
 | Type | Name | Source Code Link | Video Explanation | 
 | -----|------|------------------|------------------ |
-| Creational Design Patterns | Factory Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/factory | https://youtu.be/Em094oeUE6c |
-| Creational Design Patterns | Abstract Factory Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/abstractfactory/with | https://youtu.be/tMoul-AfgO8 |
+| Creational Design Patterns | Factory Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/factory | [Video Explanation](https://youtu.be/Em094oeUE6c) |
+| Creational Design Patterns | Abstract Factory Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/abstractfactory/with | [Video Explanation](https://youtu.be/tMoul-AfgO8) |
 | Creational Design Patterns | Builder Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/builder | https://youtu.be/AqJ6BSotiNI |
 | Creational Design Patterns | Singleton Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/singleton | https://youtu.be/CRFNimolur4 |
 | Creational Design Patterns | Prototype Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/prototype | https://youtu.be/ltdrykJTzjc |
