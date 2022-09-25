@@ -1,6 +1,7 @@
-# Low-Level-Design-Patterns
+# Low Level Design Patterns
 
-In this repository I have discussed all the 23 Low Level Design Patterns (23 GoF Patterns) along with detailed code samples and videos
+In this repository I have discussed all the 23 Low Level Design Patterns (23 GoF Patterns) along with detailed code samples and videos. All the code examples are working and I have coded it live in all the videos, so if you want to understand the full thought process behind all these design patterns and their code, please watch the videos as well.
+
 
 Here are the relevant links for these patterns
 
