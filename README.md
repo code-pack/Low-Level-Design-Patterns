@@ -14,9 +14,9 @@ Here are the relevant links for these patterns
 | Behavioral Design Patterns | Chain Of Responsibility Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/chainofresponsibility | https://youtu.be/GD9on6A0tHw |
 | Behavioral Design Patterns | Command Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/command |
 | Behavioral Design Patterns | Iterator Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/iterator |
-| Behavioral Design Patterns | Mediator Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/mediator |
+| Behavioral Design Patterns | Mediator Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/mediator | https://youtu.be/tjMYiVlFSWo |
 | Behavioral Design Patterns | Memento Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/memento | https://youtu.be/BBIobe6qvCg | 
-| Behavioral Design Patterns | Observer Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/observer |
+| Behavioral Design Patterns | Observer Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/observer | https://youtu.be/fao7UGtFWkk |
 | Behavioral Design Patterns | State Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/state
 | Behavioral Design Patterns | Strategy Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/strategy |
 | Behavioral Design Patterns | Template Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/template |
