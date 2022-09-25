@@ -15,18 +15,18 @@ Here are the relevant links for these patterns
 | Creational Design Patterns | Prototype Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/prototype | [Video Explanation](https://youtu.be/ltdrykJTzjc) |
 | Behavioral Design Patterns | Chain Of Responsibility Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/chainofresponsibility | [Video Explanation](https://youtu.be/GD9on6A0tHw) |
 | Behavioral Design Patterns | Command Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/command | [Video Explanation](https://youtu.be/81Yh15VZils) |
-| Behavioral Design Patterns | Iterator Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/iterator | https://youtu.be/SP-_l98tS6M |
-| Behavioral Design Patterns | Mediator Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/mediator | https://youtu.be/tjMYiVlFSWo |
-| Behavioral Design Patterns | Memento Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/memento | https://youtu.be/BBIobe6qvCg | 
-| Behavioral Design Patterns | Observer Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/observer | https://youtu.be/fao7UGtFWkk |
-| Behavioral Design Patterns | State Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/state | https://youtu.be/YA8FdsOsTt0 |
-| Behavioral Design Patterns | Strategy Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/strategy | https://youtu.be/X3KIwOl32w4 |
-| Behavioral Design Patterns | Template Method Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/template | https://youtu.be/Whv1DYneSt4 |
-| Behavioral Design Patterns | Visitor Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/visitor | https://youtu.be/if16_goNJdk |
+| Behavioral Design Patterns | Iterator Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/iterator | [Video Explanation](https://youtu.be/SP-_l98tS6M) |
+| Behavioral Design Patterns | Mediator Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/mediator | [Video Explanation](https://youtu.be/tjMYiVlFSWo) |
+| Behavioral Design Patterns | Memento Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/memento | [Video Explanation](https://youtu.be/BBIobe6qvCg) | 
+| Behavioral Design Patterns | Observer Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/observer | [Video Explanation](https://youtu.be/fao7UGtFWkk) |
+| Behavioral Design Patterns | State Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/state | [Video Explanation](https://youtu.be/YA8FdsOsTt0) |
+| Behavioral Design Patterns | Strategy Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/strategy | [Video Explanation](https://youtu.be/X3KIwOl32w4) |
+| Behavioral Design Patterns | Template Method Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/template | [Video Explanation](https://youtu.be/Whv1DYneSt4) |
+| Behavioral Design Patterns | Visitor Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/visitor | [Video Explanation](https://youtu.be/if16_goNJdk) |
 | Structural Design Patterns | Adapter Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/adapter | [Video Explanation](https://youtu.be/g7AecSQCgZA) |
 | Structural Design Patterns | Bridge Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/bridge | [Video Explanation](https://youtu.be/MmBGWt3TjK0) |
 | Structural Design Patterns | Composite Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/composite | [Video Explanation](https://youtu.be/6yMjt2W1FkE) |
-| Structural Design Patterns | Proxy Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/proxy |
+| Structural Design Patterns | Proxy Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/proxy |[Video Explanation](https://youtu.be/seVk4EGwoeM)
 | Structural Design Patterns | Decorator Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/decorator | [Video Explanation](https://youtu.be/MMxTpg7Qvxg) |
 | Structural Design Patterns | Flyweight Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/flyweight | [Video Explanation](https://youtu.be/_xhfrNcwjEA) |
 | Structural Design Patterns | Facade Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/facade | [Video Explanation](https://youtu.be/DU6fUV9PbaA) |
