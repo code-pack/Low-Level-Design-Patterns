@@ -22,3 +22,8 @@ Here are the relevant links for these patterns
 | Behavioral Design Patterns | Template Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/template |
 | Behavioral Design Patterns | Visitor Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/visitor |
 | Structural Design Patterns | Adapter Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/adapter |
+| Structural Design Patterns | Bridge Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/bridge |
+| Structural Design Patterns | Composite Design Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/composite |
+| Structural Design Patterns | Proxy Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/proxy |
+| Structural Design Patterns | Decorator Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/decorator |
+| Structural Design Patterns | Flyweight Pattern | https://github.com/ps06756/Low-Level-Design-Patterns/tree/master/src/flyweight | 
